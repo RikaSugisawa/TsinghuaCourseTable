@@ -1,0 +1,17 @@
+{
+  "name": "TsinghuaUtils",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "tech.rika.tsinghuautils",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Rika",
+  "license": "ISC"
+}

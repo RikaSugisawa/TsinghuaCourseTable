@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "tech.rika.tsinghuacoursetable"
+    },
+    "cordova-plugin-advanced-http": {
+      "PACKAGE_NAME": "tech.rika.tsinghuacoursetable"
+    },
+    "tech.rika.tsinghuautils": {
+      "PACKAGE_NAME": "tech.rika.tsinghuacoursetable"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "tech.rika.tsinghuacoursetable"
+    }
+  }
+}
